@@ -1,4 +1,4 @@
-# Network inspector
+# Network Inspector
 
 ## Overview
 
