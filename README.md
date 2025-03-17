@@ -1,8 +1,8 @@
-# Network Packet Analyzer
+# Network inspector
 
 ## Overview
 
-Network Packet Analyzer is a Python-based GUI application designed to sniff and analyze network packets in real-time. It captures packets, extracts essential information such as source and destination addresses, protocol types, and payload, and displays them in a user-friendly interface.
+Network Inspector is a Python-based GUI application designed to sniff and analyze network packets in real-time. It captures packets, extracts essential information such as source and destination addresses, protocol types, and payload, and displays them in a user-friendly interface.
 
 ## Features
 
